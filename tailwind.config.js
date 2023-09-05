@@ -5,6 +5,9 @@ module.exports = {
     extend: {
       fontFamily: {
         sora: ['Sora'],
+      },
+      colors: {
+        'smokey-black': '#0F0F0F',
       }
     },
   },
